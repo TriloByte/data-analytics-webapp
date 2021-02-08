@@ -8,11 +8,11 @@
 		<version>2.4.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.data-analytics-webapp</groupId>
-	<artifactId>org-data-analytics-webapp</artifactId>
+	<groupId>org.data-analytics</groupId>
+	<artifactId>org-data-analytics</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>org-data-analytics-webapp</name>
-	<description>Front-end Web Application for Data Analytics</description>
+	<name>org-data-analytics</name>
+	<description>Web Application for Data Analytics</description>
 
 	<properties>
 		<java.version>11</java.version>
